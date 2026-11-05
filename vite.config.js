@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: 'https://github.com/albertsvin/latihan-react-pertemuan-12', 
+  base: '/latihan-react-pertemuan-12/',
 })

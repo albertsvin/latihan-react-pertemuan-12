@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import TambahKurang from './tambahkurang.jsx'
-import InputQuiz from './input_quiz.jsx'
+import TambahKurang from './tambahkurang'
+import InputQuiz from './input_quiz'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
